@@ -1,3 +1,6 @@
 google-adk
 python-dotenv
 fastmcp
+chromadb
+pandas
+dotenv
